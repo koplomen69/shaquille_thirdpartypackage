@@ -17,7 +17,8 @@ class DatabaseSeeder extends Seeder
             PositionSeeder::class,
             EmployeeSeeder::class,
             BarangSeeder::class,
-            SatuanSeeder::class
+            SatuanSeeder::class,
+            UsersSeeder::class
         ]);
     }
 }
